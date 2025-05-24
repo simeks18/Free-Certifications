@@ -171,7 +171,7 @@ Check them out and take advantage of amazing free resources!
 | AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
 | AI | LinkedIn | Career Essentials in Generative AI by Microsoft and LinkedIn | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | Unknown |
 | AI | HuggingFace | Free online course and certification for Deep Reinforcement Learning | [Link](https://huggingface.co/learn/deep-rl-course) | Unlimited |
-
+| AI | IBM | Free online course with certification for introduction to AI (with sandboxes) | [Link](https://www.ibm.com/training/course/introduction-to-artificial-intelligence-CLP21014) | Unlimited |
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 ## Security
